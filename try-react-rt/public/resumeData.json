@@ -3,7 +3,7 @@
     "name":"Software Development. Delivered.",
     "description":"The development of reliable and scalable software solutions for any OS, browser and device. Reduced implementation costs and timely delivery with organized development process, modern methodologies, competencies in cutting-edge technologies, and a rich pool of developers.",
     "image":"profilepic.png",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"BlackHole believes in a personalized approach to every customer. The selection of development practice is tailored to customer's specific business needs. Be it classical methodologies, such as Waterfall or Prototype development, or modern approaches like Agile, Kanban, Lean  or Extreme Programming, BlackHole ensures a timely delivery of the project.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "zalaps@hotmail.com",
     "phone": "+91 95375 40795",
@@ -12,6 +12,11 @@
       "city":"(Your City)",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
+    },
+    "values":{
+      "people":"d",
+      "journey":"p",
+      "progress":"g"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
