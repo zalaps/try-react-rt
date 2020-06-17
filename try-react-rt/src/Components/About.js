@@ -22,37 +22,27 @@ class About extends Component {
     return (
       <section id="about">
       <div className="row">
-         {/* <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Blackhole logo" />
-         </div> */}
          <div className="twelve columns main-col">
             <h2>About BlackHole</h2>
             <p>{bio}</p>
             <div className="row">
-               <div className="columns contact-details">
+               <div className="twelve columns">
                   <h2>BlackHole Values</h2>
-                  <div class="row">
-                     <div class="column">
+                  <div className="row">
+                     <div className="four columns">
                         <h3>People</h3>
                         <p>{people}</p>
-                     </div>
-                     
-                     <div class="column">
+                     </div>                     
+                     <div className="four columns">
                         <h3>Journey</h3>
                         <p>{journey}</p>
-                     </div>
-                     
-                     <div class="column">
+                     </div>                     
+                     <div className="four columns">
                         <h3>Progres</h3>
                         <p>{progress}</p>
                      </div>
                   </div>
                </div>
-               {/* <div className="columns download">
-                  <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
-                  </p>
-               </div> */}
             </div>
          </div>
       </div>
