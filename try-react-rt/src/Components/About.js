@@ -38,7 +38,7 @@ class About extends Component {
                         <p>{journey}</p>
                      </div>                     
                      <div className="four columns">
-                        <h3>Progres</h3>
+                        <h3>Progress</h3>
                         <p>{progress}</p>
                      </div>
                   </div>
