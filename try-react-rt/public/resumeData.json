@@ -47,16 +47,16 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Enterprise Applications",
+        "description":"Enterprise Applications are large-scale enterprise software packages that support business processes, information flows, reporting, and data analytics in complex organizations. While they are generally packaged enterprise application software systems they can also be bespoke, custom developed systems created to support a specific organization's needs. BlackHole focuses on Simplicity, Overall Flexibility and Maintainability, Reusability and Decoupling of Technology and Functionality. BlackHole's proven approach of breaking large-scale application in to the small & frequent ship-able deliveries has always made sure that Enterprise Applications are developed with continuous User Feedback. "
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Mobile Applications",
+        "description":"BlackHole brings to life product ideas of native, cross-platform, and hybrid mobile applications, targeting smartphones and tablets. Be it e-commerce experiance or geo-tracking of users, BlackHole has delivered such examples with ease of use. BlackHole can participate from concept screen sketching till seamless deployments of Apps to the respective app stores."
+      },
+      {
+        "school":"Web Applications",
+        "description":"BlackHole provides flexible and seamless website development services. BlackHole's approach to design attractive and customer-friendly web designs has helped many businesses to enlarge digital footprint. BlackHole is proud of excellent team of designers & developers, which can collaborate with you during the journey of concept to website hosting."
       }
     ],
     "work":[
