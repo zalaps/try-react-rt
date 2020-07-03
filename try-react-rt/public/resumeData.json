@@ -44,11 +44,10 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"Enterprise Applications",
-        "description":"Enterprise Applications are large-scale enterprise software packages that support business processes, information flows, reporting, and data analytics in complex organizations. While they are generally packaged enterprise application software systems they can also be bespoke, custom developed systems created to support a specific organization's needs. BlackHole focuses on Simplicity, Overall Flexibility and Maintainability, Reusability and Decoupling of Technology and Functionality. BlackHole's proven approach of breaking large-scale application in to the small & frequent ship-able deliveries has always made sure that Enterprise Applications are developed with continuous User Feedback. "
+        "description":"Enterprise Applications are large-scale enterprise software packages that support business processes, information flows, reporting, and data analytics in complex organizations. BlackHole focuses on Simplicity, Overall Flexibility and Maintainability, Reusability and Decoupling of Technology and Functionality. BlackHole's proven approach of breaking large-scale application in to the small & frequent ship-able deliveries has always made sure that Enterprise Applications are developed with continuous User Feedback."
       },
       {
         "school":"Mobile Applications",
@@ -61,46 +60,42 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Staff augmentation",
+        "description":"Fill in the skill gap of in-house resources with the best BlackHole offshore talents assigned to projects full-time and managed by you directly. BlackHole provides staff augmentation services to speed up development and optimize development costs."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Dedicated team",
+        "description":"Expand your software development capabilities and minimize management efforts with a dedicated BlackHole development team managed by a PM from BlackHole who regularly reports to you and collaborates on all important decisions in the project."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"Clouds",
+        "stacknames":"Amazon Web Services, Microsoft Azure, Google Cloud Platform"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Frameworks",
+        "stacknames":"Microsoft .Net & .Net Core, Sprint(Java), Laravel(PHP)"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Web",
+        "stacknames":"Angular, React, Vue, ASP.NET"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"UI Bundles",
+        "stacknames":"Bootstrap, Materialize, Semantic, PureCSS, FluentUI"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"Databases",
+        "stacknames":"MSSQL, MYSQL, MongoDB, Redis, Cassandra, Azure CosmosDB, AWS DynamoDB"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"DevOps",
+        "stacknames":"Azure Pipelines, TeamCity, Kubernetes, Jenkins, "
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"AI/ML",
+        "stacknames":"Azure ML, LUIS, BOT Framework, TensorFlow"
       }
     ]
   },
