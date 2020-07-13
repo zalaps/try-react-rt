@@ -14,7 +14,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "companyvalues":{
-      "people":"People are the focus of fundamental belief of BlackHole. To attract, hire and retain the best talents and provide first-class learning, growing & working experiences is the core BlackHole value.",
+      "people":"People are the focus of fundamental belief at BlackHole. To attract, hire and retain the best talents and provide first-class learning, growing & working experiences is the core BlackHole value.",
       "journey":"BlackHole passionately believes that moments, experiences, and memories shared by team while on a project delivery must be enjoyable & wholesome. As they say, Happiness is a journey, not a destination.",
       "progress":"Stay focused on the continuous march toward achieving the milestones, the successes, and the breakthroughs."
     },
@@ -40,6 +40,11 @@
         "name":"skype",
         "url":"https://join.skype.com/invite/UvafCWMvv1c6",
         "className":"fa fa-skype"
+      },
+      {
+        "name":"email",
+        "url":"mailto:zalaps@hotmail.com",
+        "className":"fa fa-envelope"
       }
     ]
   },
