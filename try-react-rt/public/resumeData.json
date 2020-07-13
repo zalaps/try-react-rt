@@ -3,7 +3,7 @@
     "name":"Software Development. Delivered.",
     "description":"The development of reliable and scalable software solutions for any OS, browser and device. Reduced implementation costs and timely delivery with organized development process, modern methodologies, competencies in cutting-edge technologies, and a rich pool of developers.",
     "image":"profilepic.png",
-    "bio":"BlackHole believes in a personalized approach to every customer. The selection of development practice is tailored to customer's specific business needs. Be it classical methodologies, such as Waterfall or Prototype development, or modern approaches like Agile, Kanban, Lean  or Extreme Programming, BlackHole ensures a timely delivery of the project.",
+    "bio":"BlackHole believes in a personalized approach to every customer. The selection of development practice is tailored to customer's specific business needs. Be it classical methodologies, such as Waterfall or Prototype development, or modern approaches like Agile, Kanban, Lean or Extreme Programming, BlackHole ensures a timely delivery of the project.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "zalaps@hotmail.com",
     "phone": "+91 95375 40795",
@@ -14,9 +14,9 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "companyvalues":{
-      "people":"People are at the center of fundamental belief of BlackHole. To attract, hire and retain the best talents and provide first-class learning, growing & working experiances is core BlackHole value.",
-      "journey":"The collection of moments, experiences, and memories that the team shares as we make progress: the light moments, the laughter and the team effort solve a problem.",
-      "progress":"The continuous march toward achieving our mission as a team: the milestones, the successes, and the breakthroughs."
+      "people":"People are the focus of fundamental belief of BlackHole. To attract, hire and retain the best talents and provide first-class learning, growing & working experiences is the core BlackHole value.",
+      "journey":"BlackHole passionately believes that moments, experiences, and memories shared by team while on a project delivery must be enjoyable & wholesome. As they say, Happiness is a journey, not a destination.",
+      "progress":"Stay focused on the continuous march toward achieving the milestones, the successes, and the breakthroughs."
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -47,11 +47,11 @@
     "education":[
       {
         "school":"Enterprise Applications",
-        "description":"Enterprise Applications are large-scale enterprise software packages that support business processes, information flows, reporting, and data analytics in complex organizations. BlackHole focuses on Simplicity, Overall Flexibility and Maintainability, Reusability and Decoupling of Technology and Functionality. BlackHole's proven approach of breaking large-scale application in to the small & frequent ship-able deliveries has always made sure that Enterprise Applications are developed with continuous User Feedback."
+        "description":"Enterprise Applications are large-scale software packages that support business processes, information flows, reporting, and data analytics in complex organizations. BlackHole focuses on Simplicity, Maintainability, Reusability, Decoupling of Technology and Functionality. BlackHole's proven approach of breaking large-scale application in to the small & frequent ship-able deliveries has always made sure that Enterprise Applications are developed with continuous User Feedback."
       },
       {
         "school":"Mobile Applications",
-        "description":"BlackHole brings to life product ideas of native, cross-platform, and hybrid mobile applications, targeting smartphones and tablets. Be it e-commerce experiance or geo-tracking of users, BlackHole has delivered such examples with ease of use. BlackHole can participate from concept screen sketching till seamless deployments of Apps to the respective app stores."
+        "description":"BlackHole brings to life product ideas of native, cross-platform, and hybrid mobile applications, targeting smartphones and tablets. Be it e-commerce experience or geo-tracking of users, BlackHole has delivered such examples with ease of use. BlackHole can participate from concept screen sketching till seamless deployments of Apps to the respective app stores."
       },
       {
         "school":"Web Applications",
@@ -74,8 +74,8 @@
         "stacknames":"Amazon Web Services, Microsoft Azure, Google Cloud Platform"
       },
       {
-        "name":"Frameworks",
-        "stacknames":"Microsoft .Net & .Net Core, Sprint(Java), Laravel(PHP)"
+        "name":"Backends",
+        "stacknames":"Microsoft .Net & .Net Core, Java, PHP, Node.js, Python"
       },
       {
         "name":"Web",
@@ -91,7 +91,7 @@
       },
       {
         "name":"DevOps",
-        "stacknames":"Azure Pipelines, TeamCity, Kubernetes, Jenkins, "
+        "stacknames":"Azure Pipelines, TeamCity, Kubernetes, Jenkins, Docker"
       },
       {
         "name":"AI/ML",
@@ -136,7 +136,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"The wonderful team effort of BlackHole helped me get ready for market in time. With their professionalism, prompt response and courteous service, I was able to design wonderful and innovative web applications that will break new ground in the logistics industry. My experience was positive and unsurpassed. I am looking forward to develop my next project with the wonderful team at BlackHole. Doing business has never been so efficient and so pleasant! Thank you to all of you.",
+        "text":"The wonderful team effort of BlackHole helped me get ready for market in time. With their professionalism, prompt response and courteous service, I was able to design wonderful and innovative web applications that will break new ground in the logistics industry. My experience was positive and unsurpassed. I am looking forward to developing my next project with the wonderful team at BlackHole. Doing business has never been so efficient and so pleasant!",
         "user":"Cornelius Le Roux, CTO - Some Company"
       }
     ]
