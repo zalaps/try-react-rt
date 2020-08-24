@@ -3,9 +3,9 @@
     "name":"Software Development. Delivered.",
     "description":"The development of reliable and scalable software solutions for any OS, browser and device. Reduced implementation costs and timely delivery with organized development process, modern methodologies, competencies in cutting-edge technologies, and a rich pool of developers.",
     "image":"profilepic.png",
-    "bio":"BlackHole believes in a personalized approach to every customer. The selection of development practice is tailored to customer's specific business needs. Be it classical methodologies, such as Waterfall or Prototype development, or modern approaches like Agile, Kanban, Lean or Extreme Programming, BlackHole ensures a timely delivery of the project.",
+    "bio":"Prowerse believes in a personalized approach to every customer. The selection of development practice is tailored to customer's specific business needs. Be it classical methodologies, such as Waterfall or Prototype development, or modern approaches like Agile, Kanban, Lean or Extreme Programming, Prowerse ensures a timely delivery of the project.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "zalaps@hotmail.com",
+    "email": "prowerse@outlook.com",
     "phone": "+91 95375 40795",
     "address":{
       "street":"(Your Street)",
@@ -14,8 +14,8 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "companyvalues":{
-      "people":"People are the focus of fundamental belief at BlackHole. To attract, hire and retain the best talents and provide first-class learning, growing & working experiences is the core BlackHole value.",
-      "journey":"BlackHole passionately believes that moments, experiences, and memories shared by team while on a project delivery must be enjoyable & wholesome. As they say, Happiness is a journey, not a destination.",
+      "people":"People are the focus of fundamental belief at Prowerse. To attract, hire and retain the best talents and provide first-class learning, growing & working experiences is the core Prowerse value.",
+      "journey":"Prowerse passionately believes that moments, experiences, and memories shared by team while on a project delivery must be enjoyable & wholesome. As they say, Happiness is a journey, not a destination.",
       "progress":"Stay focused on the continuous march toward achieving the milestones, the successes, and the breakthroughs."
     },
     "website": "http://www.timbakerdev.com",
@@ -43,7 +43,7 @@
       },
       {
         "name":"email",
-        "url":"mailto:zalaps@hotmail.com",
+        "url":"mailto:prowerse@outlook.com",
         "className":"fa fa-envelope"
       }
     ]
@@ -52,25 +52,25 @@
     "education":[
       {
         "school":"Enterprise Applications",
-        "description":"Enterprise Applications are large-scale software packages that support business processes, information flows, reporting, and data analytics in complex organizations. BlackHole focuses on Simplicity, Maintainability, Reusability, Decoupling of Technology and Functionality. BlackHole's proven approach of breaking large-scale application in to the small & frequent ship-able deliveries has always made sure that Enterprise Applications are developed with continuous User Feedback."
+        "description":"Enterprise Applications are large-scale software packages that support business processes, information flows, reporting, and data analytics in complex organizations. Prowerse focuses on Simplicity, Maintainability, Reusability, Decoupling of Technology and Functionality. Prowerse's proven approach of breaking large-scale application in to the small & frequent ship-able deliveries has always made sure that Enterprise Applications are developed with continuous User Feedback."
       },
       {
         "school":"Mobile Applications",
-        "description":"BlackHole brings to life product ideas of native, cross-platform, and hybrid mobile applications, targeting smartphones and tablets. Be it e-commerce experience or geo-tracking of users, BlackHole has delivered such examples with ease of use. BlackHole can participate from concept screen sketching till seamless deployments of Apps to the respective app stores."
+        "description":"Prowerse brings to life product ideas of native, cross-platform, and hybrid mobile applications, targeting smartphones and tablets. Be it e-commerce experience or geo-tracking of users, Prowerse has delivered such examples with ease of use. Prowerse can participate from concept screen sketching till seamless deployments of Apps to the respective app stores."
       },
       {
         "school":"Web Applications",
-        "description":"BlackHole provides flexible and seamless website development services. BlackHole's approach to design attractive and customer-friendly web designs has helped many businesses to enlarge digital footprint. BlackHole is proud of excellent team of designers & developers, which can collaborate with you during the journey of concept to website hosting."
+        "description":"Prowerse provides flexible and seamless website development services. Prowerse's approach to design attractive and customer-friendly web designs has helped many businesses to enlarge digital footprint. Prowerse is proud of excellent team of designers & developers, which can collaborate with you during the journey of concept to website hosting."
       }
     ],
     "work":[
       {
         "company":"Staff augmentation",
-        "description":"Fill in the skill gap of in-house resources with the best BlackHole offshore talents assigned to projects full-time and managed by you directly. BlackHole provides staff augmentation services to speed up development and optimize development costs."
+        "description":"Fill in the skill gap of in-house resources with the best Prowerse offshore talents assigned to projects full-time and managed by you directly. Prowerse provides staff augmentation services to speed up development and optimize development costs."
       },
       {
         "company":"Dedicated team",
-        "description":"Expand your software development capabilities and minimize management efforts with a dedicated BlackHole development team managed by a PM from BlackHole who regularly reports to you and collaborates on all important decisions in the project."
+        "description":"Expand your software development capabilities and minimize management efforts with a dedicated Prowerse development team managed by a PM from Prowerse who regularly reports to you and collaborates on all important decisions in the project."
       }
     ],
     "skills":[
@@ -141,7 +141,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"The wonderful team effort of BlackHole helped me get ready for market in time. With their professionalism, prompt response and courteous service, I was able to design wonderful and innovative web applications that will break new ground in the logistics industry. My experience was positive and unsurpassed. I am looking forward to developing my next project with the wonderful team at BlackHole. Doing business has never been so efficient and so pleasant!",
+        "text":"The wonderful team effort of Prowerse helped me get ready for market in time. With their professionalism, prompt response and courteous service, I was able to design wonderful and innovative web applications that will break new ground in the logistics industry. My experience was positive and unsurpassed. I am looking forward to developing my next project with the wonderful team at Prowerse. Doing business has never been so efficient and so pleasant!",
         "user":"Cornelius Le Roux, CTO - Some Company"
       }
     ]

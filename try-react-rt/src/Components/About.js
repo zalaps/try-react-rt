@@ -22,11 +22,11 @@ class About extends Component {
       <section id="about">
         <div className="row">
           <div className="twelve columns main-col">
-            <h2>About BlackHole</h2>
+            <h2>About Prowerse</h2>
             <p>{bio}</p>
             <div className="row">
               <div className="twelve columns">
-                <h2>BlackHole Values</h2>
+                <h2>Prowerse Values</h2>
                 <div className="row">
                   <div className="four columns">
                     <h3>People</h3>
