@@ -21,6 +21,8 @@ class Header extends Component {
     return (
       <header id="home">
         <nav id="nav-wrap">
+         
+        <img src="..\images\profilepic.png" width="48" height="48" alt="Prowerse" align="left"></img>
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
           </a>
