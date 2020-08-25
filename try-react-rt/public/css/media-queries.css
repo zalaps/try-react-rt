@@ -97,11 +97,11 @@
 
 @media only screen and (max-width: 767px) {
 
-   /* mobile navigation
+   /* mobile navigation -- background: transparent !important;
    -------------------------------------------------------------------- */
    #nav-wrap {
       font: 12px 'opensans-bold', sans-serif;
-      background: transparent !important;
+      background: #161415;
       letter-spacing: 1.5px;  
       width: auto;
       position: fixed;
